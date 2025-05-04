@@ -5,14 +5,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}
 
-baseurl: "/conflict_urbanism_sp2025" # the subpath of your site, replace with the name of the github repository where you will host your site
+baseurl: "/villages-in-the-city" # the subpath of your site, replace with the name of the github repository where you will host your site
 url: "https://centerforspatialresearch.github.io/conflict_urbanism_sp2025/" # the base hostname & protocol for your site, e.g. http://github-username.io
 
-title: Conflict Urbanism 2025
-author: Laura Kurgan 
-externallink: ljk33@columbia.edu #can include an external url here
+title: Village in the City: Mapping the Relationship between Kampung Kota and Jakarta
+author: Bimo Wicaksana, Dolyagritt Wonggom 
+externallink: bw2814@columbia.edu | dw3090@columbia.edu #can include an external url here
 description:  >- # this means to ignore newlines until "baseurl:"
-  Student projects from the Spring 2025 Conflict Urbanism seminar.
+  Put Abstract Here....
 
 
 # Build settings - no need to change these
