@@ -1,9 +1,9 @@
 ---
 layout: post
-date:   2025-03-25
+date:   2025-05-04
 image: "/villages-in-the-city/images/csr_thumbnail.png"
-title:  "Template Post: Title of Your Final Project"
-author: "Names Of Everyone In Your Group"
+title:  "Villages in the City: Mapping the Relationship between Informal Settlement (Kampung Kota) and Jakarta"
+author: "Bimo Wicaksana | Dolyagritt Wonggom"
 ---
 This is a document that is written in markdown. What is markdown? It is a 'markup language' that allows you to format plain text in a way that is easily converted to many different formats. For example, this document was written in markdown but will be used as an webpage and converted into HTML.  
 
